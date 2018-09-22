@@ -1,2 +1,2 @@
 # Weekly
-weekly view reusable web stencil component 
+Reusble Stencil component tht shows a weekly view
